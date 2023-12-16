@@ -74,4 +74,10 @@ Happy coding and learning! 🌟
         <li>if the character is a letter, print whether the letter is uppercase or lowercase</li>
         <li>if the character is a numeric digit, prints its name in text (e.g., if input is 9, output is NINE)</li>
     </ol>
-    <li>This is li </li>
+5. WAP to perform the following operations on a string
+    <ul>
+        <li>Find the frequency of a character in a string.</li>
+        <li>Replace a character by another character in a string. </li>
+        <li>Remove the first occurrence of a character from a string. </li>
+        <li>Remove all occurrences of a character from a string. </li>
+    </ul>
