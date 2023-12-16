@@ -98,3 +98,6 @@ string then it should return -1.
         <li>Print the words in reverse order. </li>
         <li>Copy even lines of the file to a file named ‘File1’ and odd lines to another file named ‘File2’. </li>
     </ul>
+10. WAP to define a class Point with coordinates x and y as attributes. Create relevant
+methods and print the objects. Also define a method distance to calculate the distance
+between any two point objects.
