@@ -91,3 +91,10 @@ string then it should return -1.
         <li>'for' loop </li>
         <li>list comprehension</li>
     </ul>
+9. WAP to read a file and 
+    <ul type='square'>
+        <li>Print the total number of characters, words and lines in the file. </li>
+        <li>Calculate the frequency of each character in the file. Use a variable of dictionary type to maintain the count. </li>
+        <li>Print the words in reverse order. </li>
+        <li>Copy even lines of the file to a file named ‘File1’ and odd lines to another file named ‘File2’. </li>
+    </ul>
