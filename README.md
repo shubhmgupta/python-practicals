@@ -101,3 +101,5 @@ string then it should return -1.
 10. WAP to define a class Point with coordinates x and y as attributes. Create relevant
 methods and print the objects. Also define a method distance to calculate the distance
 between any two point objects.
+11. Write a function that prints a dictionary where the keys are numbers between 1 and 5
+and the values are cubes of the keys. 
