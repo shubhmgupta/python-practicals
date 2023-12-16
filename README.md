@@ -41,3 +41,7 @@ Connect:
 Let's connect! If you have questions, suggestions, or just want to share your own coding experiences, drop me a message. Together, we can make the learning process even more rewarding.
 
 Happy coding and learning! 🌟
+
+# Practical Questions
+
+1. WAP to find the roots of a quadratic equation with error handling.
