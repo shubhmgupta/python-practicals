@@ -1,4 +1,4 @@
-# python-practicals
+# Python Practicals
 
 Repository Name: My Semester 1 Python Practicals - Delhi University
 
