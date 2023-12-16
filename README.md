@@ -75,7 +75,7 @@ Happy coding and learning! 🌟
         <li>if the character is a numeric digit, prints its name in text (e.g., if input is 9, output is NINE)</li>
     </ol>
 5. WAP to perform the following operations on a string
-    <ul>
+    <ul type='square'>
         <li>Find the frequency of a character in a string.</li>
         <li>Replace a character by another character in a string. </li>
         <li>Remove the first occurrence of a character from a string. </li>
