@@ -85,3 +85,9 @@ Happy coding and learning! 🌟
 7. Write a function that accepts two strings and returns the indices of all the occurrences of
 the second string in the first string as a list. If the second string is not present in the first
 string then it should return -1.
+8. WAP to create a list of the cubes of only the even integers appearing in the input list
+(may have elements of other types also) using the following:
+    <ol type="a">
+        <li>'for' loop </li>
+        <li>list comprehension</li>
+    </ol>
