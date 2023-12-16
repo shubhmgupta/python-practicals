@@ -55,11 +55,13 @@ Happy coding and learning! 🌟
    This program may be done using functions
 
 3. WAP to create a pyramid of the character ‘*’ and a reverse pyramid
+
         *
        ***
       *****
      *******
     ********* 
+
                 *********
                  *******
                   *****
