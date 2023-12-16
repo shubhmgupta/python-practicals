@@ -81,3 +81,4 @@ Happy coding and learning! 🌟
         <li>Remove the first occurrence of a character from a string. </li>
         <li>Remove all occurrences of a character from a string. </li>
     </ul>
+6. WAP to swap the first n characters of two strings.
