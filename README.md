@@ -47,9 +47,9 @@ Happy coding and learning! 🌟
 1. WAP to find the roots of a quadratic equation with error handling.
 
 2. WAP to accept a number ‘n’ and
-    a. Check if ’n’ is prime
+    <!-- a. Check if ’n’ is prime
     b. Generate all prime numbers till ‘n’
-    c. Generate first ‘n’ prime numbers
+    c. Generate first ‘n’ prime numbers -->
    This program may be done using functions
 
 3. WAP to create a pyramid of the character ‘*’ and a reverse pyramid
