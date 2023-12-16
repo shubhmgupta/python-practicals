@@ -69,15 +69,15 @@ Happy coding and learning! 🌟
                     *
 
 4. WAP that accepts a character and performs the following: 
-    <ol type="a">
+    <ol type='a'>
         <li>print whether the character is a letter or numeric digit or a special character </li>
         <li>if the character is a letter, print whether the letter is uppercase or lowercase</li>
         <li>if the character is a numeric digit, prints its name in text (e.g., if input is 9, output is NINE)</li>
     </ol>
 5. WAP to perform the following operations on a string
-    <ul type='square'>
+    <li type='a'>
         <li>Find the frequency of a character in a string.</li>
         <li>Replace a character by another character in a string. </li>
         <li>Remove the first occurrence of a character from a string. </li>
         <li>Remove all occurrences of a character from a string. </li>
-    </ul>
+    </li>
