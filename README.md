@@ -110,3 +110,5 @@ and the values are cubes of the keys.
         <li>Concatenate a tuple t2=(11,13,15) with t1.</li>
         <li>Return maximum and minimum value from this tuple.</li>
     </ul>
+13. WAP to accept a name from a user. Raise and handle appropriate exception(s) if the
+text entered by the user contains digits and/or special characters.
