@@ -103,3 +103,10 @@ methods and print the objects. Also define a method distance to calculate the di
 between any two point objects.
 11. Write a function that prints a dictionary where the keys are numbers between 1 and 5
 and the values are cubes of the keys. 
+12. Consider a tuple t1=(1, 2, 5, 7, 9, 2, 4, 6, 8, 10). WAP to perform following operations: 
+    <ul type='square'>
+        <li>Print half the values of the tuple in one line and the other half in the next line. </li>
+        <li>Print another tuple whose values are even numbers in the given tuple.</li>
+        <li>Concatenate a tuple t2=(11,13,15) with t1.</li>
+        <li>Return maximum and minimum value from this tuple.</li>
+    </ul>
