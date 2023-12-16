@@ -68,4 +68,10 @@ Happy coding and learning! 🌟
                    ***
                     *
 
-
+4. WAP that accepts a character and performs the following: 
+    <ol type="a">
+        <li>print whether the character is a letter or numeric digit or a special character </li>
+        <li>if the character is a letter, print whether the letter is uppercase or lowercase</li>
+        <li>if the character is a numeric digit, prints its name in text (e.g., if input is 9, output is NINE)</li>
+    </ol>
+    <li>This is li </li>
