@@ -56,11 +56,11 @@ Happy coding and learning! 🌟
 
 3. WAP to create a pyramid of the character ‘*’ and a reverse pyramid
 
-        *
-       ***
-      *****
-     *******
-    ********* 
+             *
+            ***
+           *****
+          *******
+         ********* 
 
                 *********
                  *******
