@@ -1,0 +1,4 @@
+Hello this is python code
+question 9 a
+txt file
+of file handling concept
