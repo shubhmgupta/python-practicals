@@ -14,4 +14,4 @@ for i in str2_dict.keys():
                 list.append(key)
     else:
         list.append(-1)
-print(list)
+print(list) 
